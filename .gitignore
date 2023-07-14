@@ -1,0 +1,36 @@
+# Dependencias
+node_modules/
+
+# Archivos de registro
+logs/
+*.log
+
+# Archivos generados por herramientas de construcción
+build/
+dist/
+
+# Archivos generados por IDEs o editores de código
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de entorno y configuración local
+.env
+.env.local
+.env.*.local
+
+# Archivos de caché
+*.cache
+.cached/
+
+# Archivos de respaldo y temporales
+*.bak
+*.tmp
+*.temp
+
+# Archivos de registro y salida de depuración
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
